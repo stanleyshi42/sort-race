@@ -23,9 +23,6 @@ Zip Contents
     (setup, draw). P5's setup() is run once before page display.
     P5's draw() is run once per display frame, allowing you to do animation.
 
-  File complexity_order.pdf;  This document provides a Big-O anaylsis 
-    of the program.
-
   File assets/styles.css;  This is an extra-small example of controlling
     webpage styling.  // Loaded inside the html.
 
